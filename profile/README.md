@@ -4,6 +4,8 @@ This GitHub Organization holds all the projects that are a part of the _Gyrochro
 
 Researchers on this project are comprised of undergraduates and graduates alike, working on various sub-projects. 
 
+Explore our [project repositories](https://github.com/orgs/Gyrochronology/repositories).
+
 ### Ongoing Projects
 - [Automated vetting of light curves using artificial neural networks (ANNs)](https://gyrochronology.info/projects#deep-learning-home)
 - [Data analysis pipeline for TESS data](https://gyrochronology.info/projects#lcoverview)
